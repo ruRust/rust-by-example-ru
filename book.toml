@@ -4,7 +4,7 @@ description = "A description"
 author = "The Rust Community"
 
 [output.html]
-google-analytics="UA-142155799-3"
+google-analytics="UA-142155799-8"
 additional-css = ["theme/outdated.css"]
 
 [output.html.playpen]
