@@ -1,0 +1,12 @@
+[book]
+title = "Rust By Example"
+description = "A description"
+author = "The Rust Community"
+
+[output.html]
+google-analytics="UA-142155799-3"
+additional-css = ["theme/outdated.css"]
+
+[output.html.playpen]
+editable = true
+editor = "ace"
