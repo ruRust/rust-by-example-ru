@@ -1,3 +1,6 @@
+.page-wrapper {
+  margin-right: var(--sidebar-width);
+}
 .warning {
   display: flex;
   justify-content: space-between;
